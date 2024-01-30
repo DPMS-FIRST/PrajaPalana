@@ -1,0 +1,1 @@
+ /Users/cgg/Desktop/praja\ palana\ local/.dart_tool/flutter_build/d10cbbda42565e6c50355cef69b690bf/native_assets.yaml: 
