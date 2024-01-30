@@ -1,0 +1,21 @@
+{
+    "Telangana State Government": "తెలంగాణ రాష్ట్ర ప్రభుత్వం",
+    "Abhaya Hastham": "అభయహస్తం",
+    "NAME OF THE APPLICANT (HEAD OF THE FAMILY)": "దరఖాస్తుదారు పేరు (కుటుంబ పెద్ద):",
+    "FEMALE": "స్త్రీ",
+    "MALE": "పురుష",
+    "OTHERS": "ఇతరులు",
+    "SC":"ఎస్సీ",
+    "ST":"ఎస్టీ",
+    "BC":"బిసి",
+    "MINORITIES":"మినారిటీ",
+    "DATE OF BIRTH":"పుట్టిన తేదీ",
+    
+    "Yes": "Yes",
+    "No": "No",
+    "financialAssistance": "1. FINANCIAL ASSISTANCE OF RS.2500 PER MONTH",
+    "gasCylinder100": "2. GAS CYLINDER FOR RS.500",
+    "gasConsumerNo": "2.1. GAS CONSUMER NUMBER",
+    "gasSupplyingAgency": "2.2. NAME OF THE GAS SUPPLYING COMPANY",
+    "noOfGasCylinders:": "NUMBER OF GAS CYLINDERS CONSUMED PER YEAR"
+}
